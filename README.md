@@ -33,5 +33,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* cs20 stanford Tensorflow for Deep Learning Research 
+* CIS 680 Advanced topics in perception - University of Pennsylvania
+* CS20 stanford Tensorflow for Deep Learning Research 
+
 
