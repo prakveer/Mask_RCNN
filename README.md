@@ -10,6 +10,8 @@ The complete mask rcnn can be divided into 5 parts. Each part builds upon the pr
 
 For more details, refer the handout.
 
+For results, refer the report.
+
 ### Prerequisites
 
 Tensorflow verion > 1.4.0
@@ -18,9 +20,7 @@ OpenCV
 ...
 ## Running
 
-* (not necessary)kindly check the directories for the dataset in utils.py inside both RPN and RCNN folders.
-
-* Go to the desired directory, and run the desired python file.
+* Kindly check the directories for the dataset in utils.py inside both RPN and RCNN folders.
 
 * For example, to train the mask rcnn network , navigate to the RCNN directory.
 
