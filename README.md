@@ -13,19 +13,20 @@ For more details, refer the handout.
 ### Prerequisites
 
 Tensorflow verion > 1.4.0
+
 OpenCV
 ...
 ## Running
 
-* kindly check the directories for the dataset in utils.py inside both RPN and RCNN folders.
+* (not necessary)kindly check the directories for the dataset in utils.py inside both RPN and RCNN folders.
 
 * Go to the desired directory, and run the desired python file.
 
 * For example, to train the mask rcnn network , navigate to the RCNN directory.
 
-'''
+```
 python mask_rcnn.py
-'''
+```
 
 ## License
 
