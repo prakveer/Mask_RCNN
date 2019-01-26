@@ -17,7 +17,6 @@ For results, refer the report.
 Tensorflow verion > 1.4.0
 
 OpenCV
-...
 ## Running
 
 * Kindly check the directories for the dataset in utils.py inside both RPN and RCNN folders.
